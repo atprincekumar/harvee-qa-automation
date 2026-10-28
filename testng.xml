@@ -1,0 +1,6 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Harvee QA Assessment" parallel="false">
+  <test name="Shopping and Checkout">
+    <classes><class name="tests.ShoppingCheckoutTests"/></classes>
+  </test>
+</suite>
